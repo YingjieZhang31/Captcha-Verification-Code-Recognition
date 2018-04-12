@@ -6,7 +6,7 @@ generate_captcha.py : Generate training samples
 
 generate_label_1.py : Label training samples
 
-CNN_2.py : Use CNN to train the models
+CNN_2.py : Use a simple CNN model to train the models
 
 test.py : Test your models
 
