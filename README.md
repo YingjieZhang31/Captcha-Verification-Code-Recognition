@@ -1,5 +1,5 @@
 # Captcha-Verification-Code-Recognition
-Using CNN to recognize the verification code
+Using CNN to recognize the verification code(Based on Keras.Tensorflow)
 
 
 generate_captcha.py : Generate training samples
